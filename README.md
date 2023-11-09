@@ -38,7 +38,7 @@ This book caters to both beginners entering the world of cross-platform GUI app 
 
 ## Links to Amazon:
 
-+ [Amazon.com](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ [Amazon USA](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
 + [Amazon Poland](https://www.amazon.pl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803/)
 + [Amazon Australia](https://www.amazon.com.au/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
 + [Amazon Germany](https://www.amazon.de/-/en/Aleksei-Starkov/dp/9355518803/)
