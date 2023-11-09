@@ -1,8 +1,17 @@
-# [Learning .NET MAUI](https://www.linkedin.com/in/alexeystarkov)
+# [Learning .NET MAUI | Aleksei Starkov](https://www.linkedin.com/in/alexeystarkov)
 
-![alt text](https://s3.amazonaws.com/creativetim_bucket/products/27/original/opt_alp_thumbnail.jpg "Learning .NET MAUI")
+<img src="https://raw.githubusercontent.com/AlexeyStarkov/alexeystarkov.github.io/main/734(Front).jpg" alt="Learning .NET MAUI" width="600"/>
 
 A practical guide to cross-platform app development with .NET MAUI and C#
+
+## Amazon Links by Country
+
++ [Amazon USA](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ [Amazon Poland](https://www.amazon.pl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803/)
++ [Amazon Australia](https://www.amazon.com.au/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ [Amazon Germany](https://www.amazon.de/-/en/Aleksei-Starkov/dp/9355518803/)
++ [Amazon United Kingdom](https://www.amazon.co.uk/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803/)
++ [Amazon India](https://www.amazon.in/Learning-NET-MAUI-Aleksei-Starkov/dp/9355518803/)
 
 ### Key Features
 
@@ -35,12 +44,3 @@ By the end of the book, you will be able to develop cross-platform applications 
 ### Who this book is for
 
 This book caters to both beginners entering the world of cross-platform GUI app development with .NET and professionals who have previous experience with Xamarin. Prior knowledge of C# or a strong foundation in other programming languages is essential to comprehend and benefit from the book fully.
-
-## Links to Amazon:
-
-+ [Amazon USA](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ [Amazon Poland](https://www.amazon.pl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803/)
-+ [Amazon Australia](https://www.amazon.com.au/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ [Amazon Germany](https://www.amazon.de/-/en/Aleksei-Starkov/dp/9355518803/)
-+ [Amazon United Kingdom](https://www.amazon.co.uk/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803/)
-+ [Amazon India](https://www.amazon.in/Learning-NET-MAUI-Aleksei-Starkov/dp/9355518803/)
