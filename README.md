@@ -6,21 +6,21 @@ A practical guide to cross-platform app development with .NET MAUI and C#
 
 ## Amazon Links by Country
 
-+ 🇦🇺 [Amazon Australia](https://www.amazon.com.au/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇧🇷 [Amazon Brazil](https://www.amazon.com.br/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇨🇦 [Amazon Canada](https://www.amazon.ca/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇫🇷 [Amazon France](https://www.amazon.fr/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇩🇪 [Amazon Germany](https://www.amazon.de/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇮🇳 [Amazon India](https://www.amazon.in/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇮🇹 [Amazon Italy](https://www.amazon.it/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇯🇵 [Amazon Japan](https://www.amazon.co.jp/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇲🇽 [Amazon Mexico](https://www.amazon.com.mx/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇳🇱 [Amazon Netherlands](https://www.amazon.nl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇵🇱 [Amazon Poland](https://www.amazon.pl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇸🇬 [Amazon Singapore](https://www.amazon.sg/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇪🇸 [Amazon Spain](https://www.amazon.es/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇬🇧 [Amazon United Kingdom](https://www.amazon.co.uk/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
-+ 🇺🇸 [Amazon USA](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803) 
++ 🇦🇺 [Learning .NET MAUI at Amazon Australia](https://www.amazon.com.au/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇧🇷 [Learning .NET MAUI at Amazon Brazil](https://www.amazon.com.br/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇨🇦 [Learning .NET MAUI at Amazon Canada](https://www.amazon.ca/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇫🇷 [Learning .NET MAUI at Amazon France](https://www.amazon.fr/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇩🇪 [Learning .NET MAUI at Amazon Germany](https://www.amazon.de/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇮🇳 [Learning .NET MAUI at Amazon India](https://www.amazon.in/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇮🇹 [Learning .NET MAUI at Amazon Italy](https://www.amazon.it/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇯🇵 [Learning .NET MAUI at Amazon Japan](https://www.amazon.co.jp/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇲🇽 [Learning .NET MAUI at Amazon Mexico](https://www.amazon.com.mx/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇳🇱 [Learning .NET MAUI at Amazon Netherlands](https://www.amazon.nl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇵🇱 [Learning .NET MAUI at Amazon Poland](https://www.amazon.pl/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇸🇬 [Learning .NET MAUI at Amazon Singapore](https://www.amazon.sg/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇪🇸 [Learning .NET MAUI at Amazon Spain](https://www.amazon.es/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇬🇧 [Learning .NET MAUI at Amazon United Kingdom](https://www.amazon.co.uk/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803)
++ 🇺🇸 [Learning .NET MAUI at Amazon USA](https://www.amazon.com/Learning-NET-MAUI-Cross-Platform-development/dp/9355518803) 
 
 ### Key Features
 
